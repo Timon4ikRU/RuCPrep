@@ -1,6 +1,8 @@
 #define вектор std::vector
 #define строка std::string
-#define поток std::stream
+#define вход_поток std::istream
+#define выход_поток std:ostream
+#define поток_оба std:iostream
 #define ввод std::cin
 #define вывод std::cout
 #define ошибка std::cerr

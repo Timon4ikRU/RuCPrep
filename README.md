@@ -76,7 +76,9 @@ g++ -o prog main.cpp -std=c++11
 |---------|------------|
 | `вектор` | `std::vector` |
 | `строка` | `std::string` |
-| `поток` | `std::stream` |
+| `вход_поток` | `std::istream` |
+|`выход_поток`|`std::ostream`|
+|`поток_оба`|`std::iostream`|
 | `ввод` | `std::cin` |
 | `вывод` | `std::cout` |
 | `ошибка` | `std::cerr` |
