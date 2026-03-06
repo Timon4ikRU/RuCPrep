@@ -1,6 +1,6 @@
 #include "ruprep.h"
 #include "rustd.h"
-#include <iostream>  // всё ещё нужен для std
+#include <iostream>  // всё ещё нужен для std :(
 
 целое главная() {
     // Объявляем переменные
