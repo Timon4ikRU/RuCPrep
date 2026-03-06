@@ -1,0 +1,16 @@
+#define вектор std::vector
+#define строка std::string
+#define поток std::stream
+#define ввод std::cin
+#define вывод std::cout
+#define ошибка std::cerr
+#define файл std::fstream
+#define список std::list
+#define карта std::map
+#define множество std::set
+#define пара std::pair
+#define умный_указатель std::shared_ptr
+#define нить std::thread
+#define мьютекс std::mutex
+#define блокировка std::lock_guard
+#define конец_вывода std::endl
